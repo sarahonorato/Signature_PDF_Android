@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/pnlPrincipal"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="4px">
+        <TextView
+            android:id="@+id/ViewIDProdutoPedido"
+            android:layout_width="0.0dp"
+            android:layout_height="0.0dp"
+            android:visibility="gone"
+            android:textColor="@color/cool_black"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        <TextView
+            android:id="@+id/ViewDescricaoProdutoPedido"
+            android:layout_width="280dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/cool_black"
+            android:gravity="left|center_vertical"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        <EditText
+            android:id="@+id/ViewQtdeProdutoPedido"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/cool_black"
+            android:gravity="center_horizontal|center_vertical"
+            android:layout_marginRight="2dp"
+            android:maxLength="3"
+            android:layout_marginLeft="10dp"
+            android:background="@color/white"
+            android:inputType="number"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        <TextView
+            android:id="@+id/ViewPrecoProdutoPedido"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/cool_black"
+            android:gravity="center_horizontal|center_vertical"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+</RelativeLayout>
