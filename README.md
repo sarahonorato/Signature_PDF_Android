@@ -8,10 +8,10 @@ I am using in this sample <a href="https://components.xamarin.com/view/zxing.net
 </ul>
 
 # Result
-<img src="http://sarahonorato.com.br/imgGit/signa01.png" alt="Signature" height="400" />
-<img src="http://sarahonorato.com.br/imgGit/signa02.png" alt="Signature" height="400" />
-<img src="http://sarahonorato.com.br/imgGit/signa03.png" alt="Signature" height="400" />
-<img src="http://sarahonorato.com.br/imgGit/signa04.png" alt="Signature" height="400" />
+<img src="http://sarahonorato.com.br/imgGit/signa01.png" alt="Signature" height="450" />
+<img src="http://sarahonorato.com.br/imgGit/signa02.png" alt="Signature" height="450" />
+<img src="http://sarahonorato.com.br/imgGit/signa03.png" alt="Signature" height="450" />
+<img src="http://sarahonorato.com.br/imgGit/signa04.png" alt="Signature" height="450" />
 
 # Download APK
 Click <a href="http://sarahonorato.com.br/imgGit/APK_signature.zip">here</a> to download!
