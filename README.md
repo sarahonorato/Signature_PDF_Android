@@ -1,6 +1,6 @@
-# Android Barcode Scanning App
-Xamarin.Android Application for smartphones that can scan any type of barcode.
-I am using in this sample <a href="https://components.xamarin.com/view/zxing.net.mobile" target="_blank">ZXing</a> ("zebra crossing") library for Android, to read the barcode and return the result.
+# Android Signature App
+Xamarin.Android Application developed to capture the user's signature and generate a PDF document with the screen data. 
+I am using the component <a href="https://components.xamarin.com/view/signature-pad" target="_blank">Signature Pad</a> to capture and save the signature, and the library <a href="https://www.nuget.org/packages/Xam.iTextSharpLGPL/" target="_blank">iTextSharp<a/> to generate and save the PDF file.
 
 # Requirements
 <ul>
