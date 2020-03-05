@@ -7,12 +7,6 @@ I am using the component <a href="https://components.xamarin.com/view/signature-
 <li>Supports Android 4.0 or greater.</li>
 </ul>
 
-# Result
-<img src="http://sarahonorato.com/imgGit/signa01.png" alt="Signature" height="450" />
-<img src="http://sarahonorato.com/imgGit/signa02.png" alt="Signature" height="450" /><br/>
-<img src="http://sarahonorato.com/imgGit/signa03.png" alt="Signature" height="450" />
-<img src="http://sarahonorato.com/imgGit/signa04.png" alt="Signature" height="450" />
-
 # Download APK
 Click <a href="http://sarahonorato.com/imgGit/APK_signature.zip">here</a> to download!
 
